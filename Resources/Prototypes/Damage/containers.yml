@@ -6,6 +6,9 @@
     - Toxin
     - Airloss
     - Genetic
+  supportedTypes: # Unhinged Delta
+    - Shadow # Unhinged Delta
+    - Psion # Unhinged Delta
 
 - type: damageContainer
   id: Inorganic

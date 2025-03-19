@@ -5,3 +5,15 @@
   - Burn
   supportedTypes:
   - Radiation
+
+- type: damageContainer
+  id: PsionicHybrid # also working name, this damage container is for species and creatures capable of interacting with psionics that have their origins partially in the noosphere
+  supportedGroups:
+    - Brute
+    - Burn
+    - Toxin
+    - Airloss
+    - Genetic
+  supportedTypes:
+    - Holy
+    - Psion
