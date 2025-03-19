@@ -1,0 +1,11 @@
+- type: damageType
+  id: Shadow
+  name: damage-type-shadow
+  armorCoefficientPrice: 1
+  armorFlatPrice: 1
+
+- type: damageType
+  id: Psion
+  name: damage-type-psion
+  armorCoefficientPrice: 1
+  armorFlatPrice: 1

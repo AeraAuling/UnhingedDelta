@@ -48,3 +48,5 @@
   name: damage-group-metaphysical
   damageTypes:
   - Holy
+  - Shadow # Unhinged Delta
+  - Psion # Unhinged Delta

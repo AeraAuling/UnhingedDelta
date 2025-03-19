@@ -12,3 +12,8 @@ damage-type-shock = Shock
 damage-type-slash = Slash
 damage-type-structural = Structural
 damage-type-holy = Holy
+
+# unhinged delta changes
+
+damage-type-shadow = Shadow
+damage-type-psion = Psionic
