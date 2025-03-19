@@ -18,3 +18,8 @@ armor-damage-type-poison = Poison
 armor-damage-type-shock = Shock
 armor-damage-type-structural = Structural
 armor-damage-type-holy = Holy
+
+# unhinged delta changes
+
+armor-damage-type-shadow = Shadow
+armor-damage-type-psion = Psionic
